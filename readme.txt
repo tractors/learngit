@@ -7,6 +7,10 @@ ViewPager 的Tab指示器  强大、可定制、易扩展的 ViewPager 指示器
 
 https://github.com/hackware1993/MagicIndicator
 
+Android 引入apache commons-lang 包
+
+implementation 'org.apache.commons:commons-lang3:3.7'
+
 
 
 
