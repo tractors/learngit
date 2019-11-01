@@ -11,6 +11,14 @@ Android 引入apache commons-lang 包
 
 implementation 'org.apache.commons:commons-lang3:3.7'
 
+//加载图片框架
+implementation 'com.github.bumptech.glide:glide:4.9.0'
+annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
+
+//着色器
+implementation 'com.android.support:palette-v7:27.1.1'
+//轮播图框架
+implementation 'com.youth.banner:banner:1.4.10'
 
 
 
