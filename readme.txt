@@ -26,3 +26,5 @@ https://github.com/androiddevelop/AlignTextView
 //有焦点item的水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐“频道列表布局
 //有布局横向图片堆叠效果
 https://github.com/CCY0122/FocusLayoutManager
+//安全的handler 使用弱引用的对象
+https://github.com/badoo/android-weak-handler
