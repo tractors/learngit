@@ -31,3 +31,6 @@ https://github.com/badoo/android-weak-handler
 
 //实现时间轴的控件，可以应用在快递跟单进度，电商执行流程上
 https://github.com/vipulasri/Timeline-View
+
+//有左右边距的分割线
+https://github.com/hzl123456/SpacesItemDecoration
