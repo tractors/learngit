@@ -34,3 +34,6 @@ https://github.com/vipulasri/Timeline-View
 
 //有左右边距的分割线
 https://github.com/hzl123456/SpacesItemDecoration
+
+//ffmpeg 实现的播放器，实现有录制功能
+https://github.com/HCDarren/MusicPlayer
