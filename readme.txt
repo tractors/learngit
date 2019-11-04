@@ -28,3 +28,6 @@ https://github.com/androiddevelop/AlignTextView
 https://github.com/CCY0122/FocusLayoutManager
 //安全的handler 使用弱引用的对象
 https://github.com/badoo/android-weak-handler
+
+//实现时间轴的控件，可以应用在快递跟单进度，电商执行流程上
+https://github.com/vipulasri/Timeline-View
