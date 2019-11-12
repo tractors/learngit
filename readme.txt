@@ -40,3 +40,8 @@ https://github.com/HCDarren/MusicPlayer
 
 //一个基于AspectJ并在此基础上扩展出来可应用于Android开发平台的AOP框架，可作用于java源码，class文件及jar包，同时支持kotlin的应用。
 https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
+
+//RefreshLayout that support for OverScroll and better than iOS. 支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持
+
+//RecyclerView,AbsListView,ScrollView,WebView
+https://github.com/lcodecorex/TwinklingRefreshLayout
