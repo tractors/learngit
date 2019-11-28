@@ -42,6 +42,8 @@ https://github.com/HCDarren/MusicPlayer
 https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
 
 //RefreshLayout that support for OverScroll and better than iOS. 支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持
-
 //RecyclerView,AbsListView,ScrollView,WebView
 https://github.com/lcodecorex/TwinklingRefreshLayout
+
+//这个底层解析Gif使用的是C语言。它的有点久是加载大的图片时不会出现内存溢出的情况。保持Gif的动画效果，不会发生过快的情况。
+https://github.com/koral--/android-gif-drawable
