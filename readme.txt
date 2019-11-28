@@ -47,3 +47,6 @@ https://github.com/lcodecorex/TwinklingRefreshLayout
 
 //这个底层解析Gif使用的是C语言。它的有点久是加载大的图片时不会出现内存溢出的情况。保持Gif的动画效果，不会发生过快的情况。
 https://github.com/koral--/android-gif-drawable
+
+//一个RecyclerView，它实现了pullrefresh，loadmore和header featrues.you可以像标准的RecyclerView一样使用它。
+https://github.com/XRecyclerView/XRecyclerView
