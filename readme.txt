@@ -50,3 +50,5 @@ https://github.com/koral--/android-gif-drawable
 
 //一个RecyclerView，它实现了pullrefresh，loadmore和header featrues.you可以像标准的RecyclerView一样使用它。
 https://github.com/XRecyclerView/XRecyclerView
+//关于音视频播放的
+https://github.com/wanliyang1990
