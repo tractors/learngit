@@ -52,3 +52,9 @@ https://github.com/koral--/android-gif-drawable
 https://github.com/XRecyclerView/XRecyclerView
 //关于音视频播放的
 https://github.com/wanliyang1990
+//nginx的源码
+https://github.com/nginx/nginx
+//openssl源码
+https://github.com/openssl/openssl
+//直播推流服务端源码
+https://github.com/arut/nginx-rtmp-module
