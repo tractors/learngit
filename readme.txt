@@ -58,3 +58,24 @@ https://github.com/nginx/nginx
 https://github.com/openssl/openssl
 //直播推流服务端源码
 https://github.com/arut/nginx-rtmp-module
+
+//直播推流客户端源码地址
+http://rtmpdump.mplayerhq.hu/
+//直播推流librtmp
+http://git.ffmpeg.org/rtmpdump
+
+RTMPDump主页 ，RTMPDump库主要包含三部分：
+
+1、一个基本的客户端程序
+
+2、两个服务器程序（rtmpsrv、rtmpsuck）
+
+3、一个支持rtmp协议的库—librtmp
+
+下载RTMPDump最新源码，可以通过git拉取master分支上的最新代码：
+
+git clone git://git.ffmpeg.org/rtmpdump
+或者下载以前版本的代码— Download old version
+
+https://www.cnblogs.com/lidabo/p/7195931.html
+
