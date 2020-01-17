@@ -38,6 +38,9 @@ https://github.com/hzl123456/SpacesItemDecoration
 //ffmpeg 实现的播放器，实现有录制功能
 https://github.com/HCDarren/MusicPlayer
 
+//自定义的，和设计
+https://github.com/toly1994328/toly1994328.github.io
+
 //一个基于AspectJ并在此基础上扩展出来可应用于Android开发平台的AOP框架，可作用于java源码，class文件及jar包，同时支持kotlin的应用。
 https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
 
