@@ -94,3 +94,6 @@ https://blog.csdn.net/lyhhj/article/details/52510844
 
 //CoordinatorLayout实现底部菜单滑动显示与隐藏实现方法
 https://www.2cto.com/kf/201805/744054.html
+
+//Android 自定义AlignTextView 完美解决原生TextView诸多问题
+https://www.jianshu.com/p/717e5ab4a856
