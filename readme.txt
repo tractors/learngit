@@ -87,5 +87,6 @@ https://github.com/ljf1239848066/HiChang
 
 //仿喜马拉雅首页
 https://github.com/codeguyFred/Xmly
-https://github.com/ljf1239848066/HiChang喜马拉雅
-https://github.com/ljf1239848066/HiChang
+
+//Android--仿淘宝商品详情(继续拖动查看详情)及标题栏渐变
+https://blog.csdn.net/lyhhj/article/details/52510844
