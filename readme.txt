@@ -100,3 +100,6 @@ https://www.jianshu.com/p/717e5ab4a856
 
 //Android 仿京东顶部搜索框滑动伸缩动画效果
 https://blog.csdn.net/lhy349/article/details/92573680
+
+//一句代码解决CoordinatorLayout+AppBarLayout+NestedScrollView滑动不流畅的问题
+https://blog.csdn.net/a_yue10/article/details/78653805
