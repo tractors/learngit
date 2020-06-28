@@ -114,4 +114,5 @@ https://blog.csdn.net/u012216274/article/details/71024304
 //Android正确测量View的宽高的方法
 https://www.jianshu.com/p/9fe2295fb4e5
 
-
+//Android防止多次点击
+https://blog.csdn.net/guohesheng/article/details/51494796
