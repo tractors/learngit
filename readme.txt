@@ -103,3 +103,11 @@ https://blog.csdn.net/lhy349/article/details/92573680
 
 //一句代码解决CoordinatorLayout+AppBarLayout+NestedScrollView滑动不流畅的问题
 https://blog.csdn.net/a_yue10/article/details/78653805
+
+//【Android 手势冲突】彻底解决RecyclerView与ScrollView滑动冲突问题，并实现RecyclerView悬停导航栏
+http://www.pianshen.com/article/9043256307/
+
+//仿美团详情滑动界面，并兼容NestedScroll嵌套
+https://blog.csdn.net/u012216274/article/details/71024304
+
+
