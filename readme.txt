@@ -111,3 +111,7 @@ http://www.pianshen.com/article/9043256307/
 https://blog.csdn.net/u012216274/article/details/71024304
 
 
+//Android正确测量View的宽高的方法
+https://www.jianshu.com/p/9fe2295fb4e5
+
+
