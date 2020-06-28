@@ -97,3 +97,6 @@ https://www.2cto.com/kf/201805/744054.html
 
 //Android 自定义AlignTextView 完美解决原生TextView诸多问题
 https://www.jianshu.com/p/717e5ab4a856
+
+//Android 仿京东顶部搜索框滑动伸缩动画效果
+https://blog.csdn.net/lhy349/article/details/92573680
