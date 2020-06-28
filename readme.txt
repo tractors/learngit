@@ -90,3 +90,7 @@ https://github.com/codeguyFred/Xmly
 
 //Android--仿淘宝商品详情(继续拖动查看详情)及标题栏渐变
 https://blog.csdn.net/lyhhj/article/details/52510844
+
+
+//CoordinatorLayout实现底部菜单滑动显示与隐藏实现方法
+https://www.2cto.com/kf/201805/744054.html
