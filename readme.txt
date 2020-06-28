@@ -85,7 +85,7 @@ https://www.cnblogs.com/lidabo/p/7195931.html
 //Hisense Android TV KTV App 海信智能电视KTV系统
 https://github.com/ljf1239848066/HiChang
 
-//仿喜马拉雅首页
+//仿喜马拉雅首页 CoordinatorLayout+ViewPager+Behavior仿喜马拉雅FM首页
 https://github.com/codeguyFred/Xmly
 
 //Android--仿淘宝商品详情(继续拖动查看详情)及标题栏渐变
