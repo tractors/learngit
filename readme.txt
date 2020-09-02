@@ -119,3 +119,6 @@ https://blog.csdn.net/guohesheng/article/details/51494796
 
 //音频播放器windows上的🈶️源码
 https://github.com/zhongyang219/MusicPlayer2
+
+//贝塞尔曲线的设置，专业网站
+https://cubic-bezier.com/#.17,.67,.83,.67
