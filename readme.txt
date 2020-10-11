@@ -125,3 +125,6 @@ https://cubic-bezier.com/#.17,.67,.83,.67
 
 //基于IJKPlayer（兼容系统MediaPlayer与EXOPlayer2），实现了多功能的视频播放器
 https://github.com/CarGuo/GSYVideoPlayer
+
+//边播边缓存功能
+https://github.com/danikula/AndroidVideoCache
