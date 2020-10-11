@@ -122,3 +122,6 @@ https://github.com/zhongyang219/MusicPlayer2
 
 //贝塞尔曲线的设置，专业网站
 https://cubic-bezier.com/#.17,.67,.83,.67
+
+//基于IJKPlayer（兼容系统MediaPlayer与EXOPlayer2），实现了多功能的视频播放器
+https://github.com/CarGuo/GSYVideoPlayer
