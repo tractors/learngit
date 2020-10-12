@@ -128,3 +128,6 @@ https://github.com/CarGuo/GSYVideoPlayer
 
 //边播边缓存功能
 https://github.com/danikula/AndroidVideoCache
+
+//强大而灵活的RecyclerView Adapter
+https://github.com/CymChad/BaseRecyclerViewAdapterHelper
