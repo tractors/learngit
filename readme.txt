@@ -131,3 +131,6 @@ https://github.com/danikula/AndroidVideoCache
 
 //强大而灵活的RecyclerView Adapter
 https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+//加载图片的工具，可以加载多种样式的，比如高斯模糊，黑白图片，图片圆角
+https://github.com/wasabeef/glide-transformations
