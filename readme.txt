@@ -134,3 +134,6 @@ https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
 //加载图片的工具，可以加载多种样式的，比如高斯模糊，黑白图片，图片圆角
 https://github.com/wasabeef/glide-transformations
+
+//网易云音乐界面处理，及webview的处理
+https://github.com/youlookwhat?tab=repositories
