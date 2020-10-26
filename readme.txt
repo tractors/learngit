@@ -137,3 +137,6 @@ https://github.com/wasabeef/glide-transformations
 
 //网易云音乐界面处理，及webview的处理
 https://github.com/youlookwhat?tab=repositories
+
+//一份面向3年以上Android开发者的中高级面试宝典
+https://github.com/Timdk857/Android-Architecture-knowledge-2-
