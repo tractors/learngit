@@ -140,3 +140,6 @@ https://github.com/youlookwhat?tab=repositories
 
 //一份面向3年以上Android开发者的中高级面试宝典
 https://github.com/Timdk857/Android-Architecture-knowledge-2-
+
+//Camke 配置参考
+https://www.cnblogs.com/yongfengnice/p/13695598.html
