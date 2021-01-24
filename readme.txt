@@ -146,5 +146,6 @@ https://www.cnblogs.com/yongfengnice/p/13695598.html
 
 //一位资深的音乐播放器作者
 https://github.com/xxnan?tab=repositories
-https://www.cnblogs.com/yongfengnice/p/13695598.html有
+
+android开发cmake编译引入第三方库的常用写法
 https://www.cnblogs.com/yongfengnice/p/13695598.html
