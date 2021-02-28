@@ -147,5 +147,8 @@ https://www.cnblogs.com/yongfengnice/p/13695598.html
 //一位资深的音乐播放器作者
 https://github.com/xxnan?tab=repositories
 
-android开发cmake编译引入第三方库的常用写法
+//android开发cmake编译引入第三方库的常用写法
 https://www.cnblogs.com/yongfengnice/p/13695598.html
+
+//BubbleLayout随意变化的气泡布局、消息对话框，可定制颜色，背景、弧度、尖角弧度、边框等等
+https://github.com/xujiaji/HappyBubble/
