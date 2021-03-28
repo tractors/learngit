@@ -152,3 +152,6 @@ https://www.cnblogs.com/yongfengnice/p/13695598.html
 
 //BubbleLayout随意变化的气泡布局、消息对话框，可定制颜色，背景、弧度、尖角弧度、边框等等
 https://github.com/xujiaji/HappyBubble/
+
+//简单的带有动画效果的加载控件
+https://github.com/ldoublem/LoadingView
